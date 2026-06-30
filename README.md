@@ -42,8 +42,6 @@ The objective of this project is to move beyond simple reporting by creating an 
 
 ## 📊 Dashboard Preview
 
-## 📊 Dashboard Preview
-
 ![Blinkit Dashboard](Images/Dashboard.png)
 
 ---
