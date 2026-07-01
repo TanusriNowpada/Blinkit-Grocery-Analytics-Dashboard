@@ -89,3 +89,11 @@ The objective of this project is to move beyond simple reporting by creating an 
 ## 🚀 Key Learning
 
 This project strengthened my understanding of transforming raw business data into interactive dashboards that support better business decisions. It also improved my skills in data modeling, visualization, and communicating analytical insights effectively.
+---
+
+## 👤 Author
+
+**Tanusri Nowpada**
+
+- LinkedIn:https://www.linkedin.com/in/tanusri-nowpada/
+- GitHub: https://github.com/TanusriNowpada
